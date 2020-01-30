@@ -74,7 +74,7 @@
                     "properties": {
                         "storageKeyType": "SharedAccessKey",
                         "storageKey": "?",
-                        "storageUri": "https://c3devkbstor.blob.core.windows.net/amp-saaskit-db/AMP-DB.bacpac",
+                        "storageUri": "Enter .bacpac File Path",
                         "administratorLogin": "[parameters('administratorLogin')]",
                         "administratorLoginPassword": "[parameters('administratorLoginPassword')]",
                         "operationMode": "Import"
